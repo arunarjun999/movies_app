@@ -1,0 +1,9 @@
+$primary:#7400d9;
+$danger: #b3342d;
+
+$theme-colors:(
+    "primay":$primary,
+    "danger":$danger
+    );
+    
+@import '~bootstrap/scss/bootstrap';
